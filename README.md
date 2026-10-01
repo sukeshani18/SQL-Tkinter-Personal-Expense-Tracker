@@ -126,6 +126,12 @@ For example, the application can store:
 
 The application displays the transactions for the selected date and calculates the daily total.
 
+## Application Screenshot
+Here is a screenshot of the Personal Expense Tracker application:
+
+![Personal Expense Tracker](expense-tracker.png)
+![Personal Expense Tracker](add-expenses.png)
+
 ## Learning Outcomes
 
 Through this project, I practiced:
