@@ -7,8 +7,8 @@ import mysql.connector
 
 connection = mysql.connector.connect(
     host="localhost",
-    user="root",
-    password="1995",
+    user="YOUR_USERNAME",
+    password="YOUR_PASSWORD",
     database="expense_tracker"
 )
 
